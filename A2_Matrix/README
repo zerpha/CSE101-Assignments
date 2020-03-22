@@ -1,0 +1,24 @@
+// Henry Nguyen
+// CruzID: hnguye87
+// Assignment: pa2
+
+List.h: header file that contains function prototypes for List.c
+
+List.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the List ADT.
+
+ListTest.c: Test Client to test the List ADT.
+
+Matrix.h: header file that contains function prototypes for Matrix.c
+
+Matrix.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the Matrix ADT.
+
+MatrixTest.c: Test Client to test the Matrix ADT.
+
+Sparse.c: Main file in the program. Reads input file data and stores it into two matrices A and B.
+Prints out all Matrix.c function results into an output file. 
+
+Makefile: Provided Makefile that creates an executable binary file, Lex, and .o files to help grader clean
+up the submit directory.
+
