@@ -1,0 +1,13 @@
+Henry Nguyen
+CruzID: hnguye87
+Assignment: pa1
+
+List.h: header file that contain function prototypes for List.c
+
+List.c: Implementation file that contains structs, constructors/destructors, access functions, maniputlation functions, and other functions for the List ADT.
+
+ListClient.c: Provided test client for List ADT. Unchanged
+
+Lex.c: Main file in the program. It reads in an input file into an array. It creates a List of indices in a particular order that indirectly sorts the array. It then prints the indirectly sorted array into the output file.
+
+Makefile: Provided Makefile that creates an executable binary file, Lex, and .o files to help the grader clean up the submit directory.
