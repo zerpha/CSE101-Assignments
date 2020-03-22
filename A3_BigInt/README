@@ -1,0 +1,24 @@
+// Henry Nguyen
+// CruzID: hnguye87
+// Assignment: pa3
+
+List.h: header file that contains function prototypes for List.c
+
+List.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the List ADT.
+
+ListTest.c: Test Client to test the List ADT.
+
+BigInteger.h: header file that contains function prototypes for BigInteger.c
+
+BigInteger.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the BigInteger ADT.
+
+BigIntegerTest.c: Test Client to test the BigInteger ADT.
+
+Arithmetic.c: Main file in the program. Reads input file data and performs arithmetics using BigInteger ADT.
+Prints all Arithmetic results into an output file. 
+
+Makefile: Provided Makefile that creates an executable binary file, Lex, and .o files to help grader clean
+up the submit directory.
+

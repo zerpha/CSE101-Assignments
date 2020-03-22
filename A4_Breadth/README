@@ -1,0 +1,22 @@
+// Henry Nguyen
+// CruzID: hnguye87
+// Assignment: pa4
+
+List.h: header file that contains function prototypes for List.c
+
+List.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the List ADT.
+
+Graph.h: header file that contains function prototypes for Graph.c
+
+Graph.c: Implementation file that contains structs, constructors/destructors, access functions,
+manipulation functions, and other functions for the Graph ADT.
+
+GraphTest.c: Test Client to test the Graph ADT.
+
+FindPath.c: Main file in the program. Reads input file data and stores it into a Graph.
+Prints out paths and their distance of the Graph into output file.
+
+Makefile: Provided Makefile that creates an executable binary file, Lex, and .o files to help grader clean
+up the submit directory.
+
